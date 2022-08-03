@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T03:47:35.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Xi4DNbnlZEo-NFNBe2c1" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-03T03:48:41.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zKy3TSGd2co68pHraIoF" version="20.2.2" type="github" pages="2">
   <diagram id="u2JGVooj85GUmdJrXcnZ" name="Bottom Bucket">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,6 +95,15 @@
         </mxCell>
         <mxCell id="XKqA7-kuqFgGDziZ0PdY-8" value="Top" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="-835" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XKqA7-kuqFgGDziZ0PdY-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XKqA7-kuqFgGDziZ0PdY-11" value="11 mm" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XKqA7-kuqFgGDziZ0PdY-12" value="Pachinko Ball" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-670" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
