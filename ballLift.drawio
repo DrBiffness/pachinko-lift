@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T02:13:16.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9AbGc-kiyO5j6TvuClzN" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-03T03:47:35.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Xi4DNbnlZEo-NFNBe2c1" version="20.2.2" type="github" pages="2">
   <diagram id="u2JGVooj85GUmdJrXcnZ" name="Bottom Bucket">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,17 +78,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wYujfobW8twm6gLRUSLj-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="-1010" width="75" height="90" as="geometry" />
+        <mxCell id="XKqA7-kuqFgGDziZ0PdY-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedTriangle;fillColor=#10739E;strokeColor=none;rotation=-180;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="135.63" y="-960" width="108.75" height="180" as="geometry" />
         </mxCell>
         <mxCell id="BG-bOIxgwAE_as1Ot2Ih-1" value="Side Slide" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="-1100" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wYujfobW8twm6gLRUSLj-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-85;" vertex="1" parent="1">
-          <mxGeometry x="393" y="-1000" width="65" height="400" as="geometry" />
+        <mxCell id="XKqA7-kuqFgGDziZ0PdY-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#10739E;strokeColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="441.25" y="-950" width="60" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="wYujfobW8twm6gLRUSLj-10" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="-1000" width="75" height="80" as="geometry" />
+        <mxCell id="XKqA7-kuqFgGDziZ0PdY-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;fillColor=#10739E;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-895" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XKqA7-kuqFgGDziZ0PdY-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;fillColor=#10739E;strokeColor=none;startAngle=0.506492516275344;endAngle=0.762705336833058;arcWidth=0.58;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-900" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XKqA7-kuqFgGDziZ0PdY-8" value="Top" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-835" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
